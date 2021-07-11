@@ -6,8 +6,6 @@
 [![Contributors](https://img.shields.io/github/contributors/opentibiabr/otservbr-global.svg?style=flat-square)](https://github.com/pedrosnni/projetoDEVELOPER/graphs/contributors)
 [![GitHub](https://img.shields.io/github/license/opentibiabr/otservbr-global)](https://github.com/pedrosnni/projetoDEVELOPER/blob/servidor/LICENSE)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/projetoDEVELOPER/blob/servidor/LICENSE)
-
 ## PROJETO
 
 projetoDEVELOPER é um servidor open-source MMORPG escrito em C ++. É um fork do projeto [Forgotten Server] (https://github.com/otland/forgottenserver). Para se conectar ao servidor e ter uma experiência estável, você pode usar nosso [próprio cliente] (xxx).
