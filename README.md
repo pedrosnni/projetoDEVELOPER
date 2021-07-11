@@ -33,7 +33,3 @@ projetoDEVELOPER é um servidor open-source MMORPG escrito em C ++. É um fork d
 Se você deseja patrocinar aqui, entre no discord e mande uma mensagem para um de nossos administradores.
 
 ### PARCEIROS
-
-[![Supported by OTServ Brasil](https://raw.githubusercontent.com/otbr/otserv-brasil/main/otbr.png)](https://forums.otserv.com.br)
-
-[![Protected by ServerCore](https://mktsc.servercore.com.br/protectedbyservercore.png)](https://bit.ly/1q2q4de)
