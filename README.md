@@ -10,12 +10,6 @@
 
 projetoDEVELOPER é um servidor open-source MMORPG escrito em C ++. É um fork do projeto [Forgotten Server] (https://github.com/otland/forgottenserver). Para se conectar ao servidor e ter uma experiência estável, você pode usar nosso [próprio cliente] (xxx).
 
-### Getting **Started**
-
-* **AVISO: VOCÊ PRECISA DESCOMPACTAR O MAPA ANTES DE INICIAR O SERVIDOR.**
-* [Compiling on Windows](https://forums.otserv.com.br/index.php?/forums/topic/169235-windowsvc2019-compilando-sources-otservbr-global/).
-* Wiki: Compiling ([Ubuntu/Debian](https://github.com/opentibiabr/otservbr-global/wiki/Compiling-on-Ubuntu-or-Debian-GNU-Linux), [Windows](https://github.com/opentibiabr/otservbr-global/wiki/Compiling-on-Windows-(vcpkg)))
-
 ### OBRIGADO
 
   * our partners
