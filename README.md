@@ -15,7 +15,6 @@ projetoDEVELOPER é um servidor open-source MMORPG escrito em C ++. É um fork d
   * our partners
   * our crew (p_sinnNi, oMoska, Sieg)
   * [our contributors](https://github.com/pedrosnni/projetoDEVELOPER/graphs/contributors)
-  
   * [mattyx14/otxserver](https://github.com/mattyx14/otxserver) and contributors
   * [otland/forgottenserver](https://github.com/otland/forgottenserver) and contributors
   * [saiyansking/optimized_forgottenserver](https://github.com/SaiyansKing/optimized_forgottenserver) and contributors
